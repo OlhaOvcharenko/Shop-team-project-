@@ -13,6 +13,16 @@ Wszystkie potrzebne do pracy pliki źródłowe znajdują się w folderach `src` 
 
 Zalecana wersia Node 16.14.0.
 
+EN:
+
+After cloning the project, install the required packages using the command yarn install (or npm install).
+
+You can now start working using the provided task yarn start (or npm start).
+
+All necessary source files are located in the src and public folders.
+
+Please use Node version 16.14.0
+
 ## NPM Scripts
 
 Dostępne są 3 główne skrypty przyspieszające pracę:
